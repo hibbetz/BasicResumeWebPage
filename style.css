@@ -1,23 +1,32 @@
 div {
-  font-family: helvetica;
+  font-family: Trebuchet MS;
+  font-size: 22px;
+  text-align: center;
   color: white;
-  background-color: green;
+  background-color: #4666FF;
 }
 article{
-  font-family: helvetica;
-  color: black;
-  background-color: yellow;
-}
-h3 {
-  font-family: helvetica;
+  font-family: Trebuchet MS;
+  text-align: center;
+  font-size: 16px;
   color: white;
-  background-color: green
+  background-color: #4666FF;
+}
+h4 {
+  font-family: Trebuchet MS;
+  font-size: 18px;
+  text-align: center;
+  color: white;
+  background-color: #4666FF
 }
 .SubSection {
-  font-family: Ariel;
+  font-family: Trebuchet MS;
   color: white;
-  background-color: green; 
+  background-color: #4666FF; 
 }
 body {
-  background-color: yellow;
+  background-color: #4666FF;
+}
+a {
+  color: pink;
 }
