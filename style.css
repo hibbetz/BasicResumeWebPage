@@ -1,0 +1,23 @@
+div {
+  font-family: helvetica;
+  color: white;
+  background-color: green;
+}
+article{
+  font-family: helvetica;
+  color: black;
+  background-color: yellow;
+}
+h3 {
+  font-family: helvetica;
+  color: white;
+  background-color: green
+}
+.SubSection {
+  font-family: Ariel;
+  color: white;
+  background-color: green; 
+}
+body {
+  background-color: yellow;
+}
