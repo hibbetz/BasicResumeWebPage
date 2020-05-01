@@ -1,32 +1,52 @@
-div {
+div{
   font-family: Trebuchet MS;
-  font-size: 22px;
   text-align: center;
-  color: white;
-  background-color: #4666FF;
+  font-size: 18px;
+  color: black;
+  background-color: #a0ddff;
+  border-style: solid;
+  border-radius: 8px
+}
+#email{
+  font-family: Trebuchet MS;
+  text-align: center;
+  font-size: 16px;
+  color: Blue;
 }
 article{
   font-family: Trebuchet MS;
   text-align: center;
   font-size: 16px;
-  color: white;
-  background-color: #4666FF;
+  color: black;
+  background-color: #a0ddff;
+  border-style: double;
+  border-radius: 8px;
+  margin: 5px;
+  margin-left: 255px;
+  margin-right: 255px; 
 }
 h4 {
   font-family: Trebuchet MS;
-  font-size: 18px;
+  font-size: 20px;
   text-align: center;
-  color: white;
-  background-color: #4666FF
+  color: Black;
+  background-color: white;
 }
 .SubSection {
   font-family: Trebuchet MS;
-  color: white;
-  background-color: #4666FF; 
+  font-size: 18px;
+  text-decoration: underline;
+  color: black;
+  background-color: #a0ddff;
+  margin-right: 500px;
+  margin-left: 500px
 }
 body {
-  background-color: #4666FF;
+  background-color: #fad6a5 ;
+  margin: 25px;
 }
 a {
-  color: pink;
+  color: blue;
+  font-family: Trebuchet MS;
+  font-size: 16px;
 }
