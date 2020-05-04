@@ -5,7 +5,9 @@ div{
   color: black;
   background-color: #a0ddff;
   border-style: solid;
-  border-radius: 8px
+  padding: 8px;
+  border-radius: 8px;
+  max-width: 100%;
 }
 #email{
   font-family: Trebuchet MS;
@@ -22,31 +24,49 @@ article{
   border-style: double;
   border-radius: 8px;
   margin: 5px;
-  margin-left: 255px;
-  margin-right: 255px; 
+  margin-left: 240px;
+  margin-right: 230px; 
+  padding-left: 10px;
+  padding-right: 10px;
+  max-width: 80%;
 }
-h4 {
-  font-family: Trebuchet MS;
-  font-size: 20px;
-  text-align: center;
-  color: Black;
-  background-color: white;
+.Amazon{
+  height: 100%;
+  width: auto;
+  max-width: 100%;
 }
 .SubSection {
   font-family: Trebuchet MS;
   font-size: 18px;
   text-decoration: underline;
   color: black;
+  align: center;
   background-color: #a0ddff;
-  margin-right: 500px;
-  margin-left: 500px
 }
 body {
-  background-color: #fad6a5 ;
+  background-color: #fefbea ;
   margin: 25px;
+  max-width:1000%;
 }
 a {
   color: blue;
   font-family: Trebuchet MS;
   font-size: 16px;
+  max-width: 80%;
+}
+.sidenav {
+  height: 70%; 
+  width: 205px; 
+  position: absolute;
+  top: 120px;
+  left: 30px;
+  border-style: double;
+  background-color: #fefbea;
+  overflow-x: hidden;
+  padding-right: 10px;
+  align: Center;
+  max-height: 80%;
+}
+.Skills{
+  text-align: left;
 }
