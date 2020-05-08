@@ -46,7 +46,7 @@ article{
 body {
   background-color: #fefbea ;
   margin: 25px;
-  max-width:1000%;
+  max-width:100%;
 }
 a {
   color: blue;
@@ -61,7 +61,7 @@ a {
   top: 120px;
   left: 30px;
   border-style: double;
-  background-color: #fefbea;
+  background-color: #a0ddff;
   overflow-x: hidden;
   padding-right: 10px;
   align: Center;
